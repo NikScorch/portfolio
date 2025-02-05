@@ -2,6 +2,7 @@
 title: Cormac Shannon
 description: Software Engineer Portfolio
 date: 2025-02-05
+dob: 2005-02-10
 # author: Cormac Shannon
 ---
 
@@ -123,4 +124,4 @@ Worked at Mbryonics, a space telecommunications company developing cutting-edge 
 
 ---
 
-> ![](web/bongo_cat_3.gif)
+<!-- > ![](web/bongo_cat_3.gif) -->
